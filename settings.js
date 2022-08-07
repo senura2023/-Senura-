@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤I am online now😇
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -29,11 +29,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
-global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.vcardowner = ['+94774154414'] // owner number
+global.ownername = "🤟😉𝗦𝗲𝗻𝘂𝗿𝗮😉🤟Official Crew for LK❯❯" // owner name
+global.ytname = "SL Electronics" // yt chanel name
+global.socialm = "GIHUB: senura2023" // github or insta name
+global.location = "Sri Lanka" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -44,19 +44,19 @@ global.antibad = "false" // To remove bad word senders
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "true" // bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.owner = ['+94774154414']
+global.ownertag = '+94774154414' //your tag number
+global.botname = 'Senura Official Crew for LK' //ur bot name
+global.packname = "Senura Official Crew for LK" // sticker packname
+global.author = "Senura Official Crew for LK" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ Senura Official Crew for LK ]' //
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ Youtube ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://www.youtube.com/channel/UCkFbr_YT8nt8NbKtMDJJUrA' //Change Your Button's URL
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94774154414'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
