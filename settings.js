@@ -42,7 +42,7 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
 global.antibad = "false" // To remove bad word senders
 global.antilink = "false" // To remove group link sharing peoples
-global.upsongvoice = "true" // bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
+global.upsongvoice = "false" // bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 
 global.owner = ['+94774154414']
 global.ownertag = '+94774154414' //your tag number
